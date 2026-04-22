@@ -14,3 +14,4 @@ Discord rich presence for Youtube.
 - This only works on PC, on your browser.
 - Requirements: Python 3, Tampermonkey
 - Python libraries needed: pypresence, requests, urllib
+- I might or might not update this, as i made it for myself just for fun
